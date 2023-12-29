@@ -1,4 +1,4 @@
-# talk-app
+# talking-app
 
 ## Project setup
 ```
